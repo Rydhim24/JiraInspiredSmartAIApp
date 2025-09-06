@@ -1,0 +1,9 @@
+﻿node_modules/
+.env
+.vscode/
+*.log
+package-lock.json
+
+
+backend/jira-app-AI.json
+
